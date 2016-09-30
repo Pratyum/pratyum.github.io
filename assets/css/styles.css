@@ -195,16 +195,17 @@ iframe {
 .latest .item .title {
   font-size: 18px;
   margin-top: 0;
+  color: whitesmoke;
 }
 .latest .item .title .label {
   margin-left: 5px;
   font-size: 12px;
 }
 .latest .item .title a {
-  color: #434343;
+  color: whitesmoke;
 }
 .latest .item .title a:hover {
-  color: #4f4f4f;
+  color: white;
 }
 .latest .item .project-image:hover {
   -webkit-opacity: 0.8;
@@ -290,10 +291,10 @@ iframe {
   line-height: 1.5;
 }
 .projects .item .title a {
-  color: #434343;
+  color: lightgrey;
 }
 .projects .item .title a:hover {
-  color: #4f4f4f;
+  color: whitesmoke;
 }
 /* Work Section */
 .experience .item {
@@ -305,18 +306,29 @@ iframe {
   margin-bottom: 5px;
   line-height: 1.5;
 }
+.experience .item .title .position {
+  color: whitesmoke;
+  font-weight: normal;
+}
+.experience .item .title .position a {
+  color: whit;
+}
+.experience .item .title .position a:hover {
+  color: whitesmoke;
+}
+
 .experience .item .title .place {
-  color: #999;
+  color: lightgrey;
   font-weight: normal;
 }
 .experience .item .title .place a {
-  color: #999;
+  color: lightgrey;
 }
 .experience .item .title .place a:hover {
-  color: #666666;
+  color: whitesmoke;
 }
 .experience .item .title .year {
-  color: #999;
+  color: lightgrey;
   font-weight: normal;
 }
 /* Git section */
@@ -411,7 +423,7 @@ iframe {
   font-weight: 600;
 }
 .testimonials .item .source .title {
-  color: #999;
+  color: lightgrey;
 }
 /* Education section */
 .education .item {
@@ -427,7 +439,7 @@ iframe {
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
-  color: #999;
+  color: lightgrey;
   font-weight: 600;
   padding-left: 25px;
 }
@@ -443,7 +455,7 @@ iframe {
   color: #434343;
 }
 .languages .item .level {
-  color: #999;
+  color: lightgrey;
 }
 .languages .item:last-child {
   margin-bottom: 0;
