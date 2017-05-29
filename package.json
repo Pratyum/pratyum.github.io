@@ -1,0 +1,22 @@
+{
+  "name": "pratyum.github.io",
+  "version": "1.0.0",
+  "description": "Pratyum's Webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratyum/pratyum.github.io.git"
+  },
+  "keywords": [
+    "pratyum"
+  ],
+  "author": "pratyum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pratyum/pratyum.github.io/issues"
+  },
+  "homepage": "https://github.com/Pratyum/pratyum.github.io#readme"
+}

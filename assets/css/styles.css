@@ -526,6 +526,11 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+#amd {
+  max-width: 10%;
+  max-height: 10%;
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
